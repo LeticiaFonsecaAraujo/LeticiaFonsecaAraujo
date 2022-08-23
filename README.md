@@ -2,7 +2,7 @@
 
 :bowing_woman:	- Tenho interesse em abranger meu conhecimento
 
-:computer:	- Atualmente estou aprend sobre o *JavaScript*
+:computer:	- Atualmente estou aprendo sobre o *JavaScript e Scratch*
 
 :handshake:	- Procuro colaborar em que for possível
 
